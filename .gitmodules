@@ -2,3 +2,6 @@
 	path = Rox-cogs
 	url = https://gitlab.com/Roxedus/Rox-cogs.git
 	branch = master
+[submodule "tannhjul-custom-commands"]
+	path = tannhjul-custom-commands
+	url = git@github.com:r-Norge/tannhjul-custom-commands.git
