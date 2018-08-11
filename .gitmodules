@@ -1,0 +1,4 @@
+[submodule "Rox-cogs"]
+	path = Rox-cogs
+	url = https://gitlab.com/Roxedus/Rox-cogs.git
+	branch = master
